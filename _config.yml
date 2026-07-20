@@ -1,0 +1,50 @@
+has_toc: true
+
+<div style="padding-top: 25px;"></div>
+
+title: "Fall 2026 CSC 405/605/705 Data Science"
+description: "Course website for fall 2026 CSC 405/605/705"
+
+remote_theme: just-the-docs/just-the-docs@v0.8.0
+
+# ==== just-the-docs ====
+just_the_docs:
+  logo: false
+  search_enabled: true
+  last_modified_at: true
+  nav_order: 1
+
+nav:
+  # - title: "Home"
+  #   url: /
+  - title: "Syllabus"
+    url: CSC 405605705-fall 2026-Syllabus.md
+  - title: "Schedule"
+    url: CSC 405605705-fall 2026-Schedule.md
+  # - title: "Assignments"
+  #   url: CSC 405605705-fall 2026-Assignments.md
+  - title: "Individual Project"
+    url: CSC 405605705-fall 2026-Individual Project.md
+  - title: "Research Project"
+    url: Data Science Research Project (Graduate Students Only).md
+
+# ==== Plugins ====
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-last-modified-at
+
+relative_links:
+  enabled: true
+  collections: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+
+
+
+
+
+
