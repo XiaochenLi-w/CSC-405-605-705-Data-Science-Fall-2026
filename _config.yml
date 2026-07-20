@@ -23,10 +23,10 @@ nav:
     url: CSC 405605705-fall 2026-Schedule.md
   # - title: "Assignments"
   #   url: CSC 405605705-fall 2026-Assignments.md
-  - title: "Individual Project"
+  - title: "Project"
     url: CSC 405605705-fall 2026-Individual Project.md
-  - title: "Research Project"
-    url: Data Science Research Project (Graduate Students Only).md
+  - title: "Research"
+    url: CSC 405605705-fall 2026-Research Project.md
 
 # ==== Plugins ====
 plugins:
