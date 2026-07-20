@@ -1,6 +1,6 @@
 ---
 
-title: Project
+title: Research Project
 nav_order: 6
 last_modified_date: true
 
