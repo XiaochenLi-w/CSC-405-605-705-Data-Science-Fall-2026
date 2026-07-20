@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-nav_order: 1
+nav_order: 2
 last_modified_date: true
 ---
 
