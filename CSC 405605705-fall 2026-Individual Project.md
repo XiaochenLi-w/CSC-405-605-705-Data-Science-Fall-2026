@@ -1,5 +1,5 @@
 ---
-title: Project
+title: Individual Project
 nav_order: 4
 last_modified_date: true
 ---
