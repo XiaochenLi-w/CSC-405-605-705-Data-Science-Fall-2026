@@ -20,7 +20,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Preparation:** Students must have a Python environment installed before class, including pip. Installing Jupyter Notebook in advance is also recommended.
 
-**Reading**: [GitHub Introduction](https://github.com/XiaochenLi-w/CSC-405-605-705-Data-Science-Fall-2026/blob/main/Reading%20Materials/github_intro.pdf)
+**Reading**: [GitHub Introduction](Reading Materials/github_intro.pdf)
 
 **Topics 1:** Introduction of Jupyter Notebook
 
@@ -36,7 +36,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 5: Wednesday, September 2
 
-**Assignment**: You can start [**Assignment 1**](https://github.com/XiaochenLi-w/CSC-405-605-705-Data-Science-Fall-2026/blob/main/Assignments/Data%20Science%20-%20Assignment%201.pdf)
+**Assignment**: You can start [**Assignment 1**](Assignments/Data Science - Assignment 1.pdf)
 
 **Preparation:** Students must have Pandas library installed before class.
 
@@ -84,7 +84,7 @@ Midterm Grades **Due on Sep 25**
 
 ### Day 14: Wednesday, October 7
 
-**Assignment**: You can start [**Assignment 2**](https://github.com/XiaochenLi-w/CSC-405-605-705-Data-Science-Fall-2026/blob/main/Assignments/Data%20Science%20-%20Assignment%202.pdf)
+**Assignment**: You can start [**Assignment 2**](Assignments/Data Science - Assignment 2.pdf)
 
 **Topics:** Introduction to Statistics in Data Science: Central Limit Theorem, Probability Density Estimation.
 
