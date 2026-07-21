@@ -8,6 +8,6 @@ last_modified_date: true
 
 The following assignments are planned, with due dates as shown (links available after assignments are given):
 
-1. Assignment 1 – due **-**
-2. Assignment 2 – due **-**
+1. [Assignment 1](https://github.com/XiaochenLi-w/CSC-405-605-705-Data-Science-Fall-2026/blob/main/Assignments/Data%20Science%20-%20Assignment%201.pdf) – due Wednesday, September 16
+2. [Assignment 2](https://github.com/XiaochenLi-w/CSC-405-605-705-Data-Science-Fall-2026/blob/main/Assignments/Data%20Science%20-%20Assignment%202.pdf) – due Monday, Oct 21
 
