@@ -70,7 +70,7 @@ Please note that presentation participation does not affect the evaluation of th
 
 The project proposal is intended to help students receive early feedback and guidance before beginning the full project. The proposal should demonstrate that the project is feasible, well planned, and aligned with the course objectives.
 
-Students should download and complete the **Project Proposal Template** provided and submit it by the posted deadline.
+Students should download and complete the [**Project Proposal Template**](Data Science Project Proposal_template.docx) provided and submit it by the posted deadline.
 
 There is no page requirement; however, the proposal should address all sections of the template with sufficient detail.
 
