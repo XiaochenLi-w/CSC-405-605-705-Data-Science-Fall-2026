@@ -4,7 +4,7 @@ nav_order: 2
 last_modified_date: true
 ---
 
-# CSC 405/605/705 - Fall 2026 - Syllabus
+# CSC 405/605/705 - Fall 2026 - Course Information and Policy
 
 **Instructor:** [Xiaochen Li](https://xiaochenli-w.github.io/)
 
@@ -107,15 +107,15 @@ By the end of the course, students will be able to independently conduct data an
 | Category             |                             |
 | -------------------- | --------------------------- |
 | Assignments (2)      | 26% (Each accounts for 13%) |
-| In class quizzes (3) | 24% (Each  accounts for 8%) |
+| In-class quizzes (3) | 24% (Each  accounts for 8%) |
 | Project              | 50%                         |
 
-**For undergraduates:**
+**For graduates:**
 
 | Category             |                             |
 | -------------------- | --------------------------- |
 | Assignments (2)      | 26% (Each accounts for 13%) |
-| In class quizzes (3) | 24% (Each  accounts for 8%) |
+| In-class quizzes (3) | 24% (Each  accounts for 8%) |
 | Project              | 40%                         |
 | Research Report      | 10%                         |
 
