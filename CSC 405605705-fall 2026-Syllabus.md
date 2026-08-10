@@ -12,7 +12,7 @@ last_modified_date: true
 
 **Office:** Petty 153
 
-**Office Hours：** Monday/Wednesday 9:30 am - 11:00 am
+**Office Hours：** Monday/Wednesday 10:00 am - 11:00 am
 
 **Email:** X_LI12@uncg.edu - I answer most emails within one business day – do not expect responses evenings or weekends
 
