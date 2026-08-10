@@ -1,5 +1,5 @@
 ---
-title: Syllabus
+title: Course Information
 nav_order: 2
 last_modified_date: true
 ---
