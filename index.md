@@ -13,7 +13,7 @@ Welcome to the course website.
 
 **Office:** 153 Petty Building
 
-**Office Hours：** Monday/Wednesday 9:30 am - 11:00 am
+**Office Hours:** Monday/Wednesday 10:00 am - 11:00 am
 
 ## 📌 Quick Links
 
