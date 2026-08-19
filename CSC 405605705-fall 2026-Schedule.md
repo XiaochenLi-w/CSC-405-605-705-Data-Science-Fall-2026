@@ -14,7 +14,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Topics 1:** Course Information [Slides](slides/course_introduce.pdf)
 
-**Topics 2:** Introduction of Data Science
+**Topics 2:** Introduction of Data Science [Slides](slides/data_science_intro.pdf)
 
 ### Day 2: Monday, August 24
 
