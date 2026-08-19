@@ -12,7 +12,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 1: Wednesday, August 19
 
-**Topics 1:** Course Information
+**Topics 1:** Course Information [Slides](slides/course_introduce.pdf)
 
 **Topics 2:** Introduction of Data Science
 
