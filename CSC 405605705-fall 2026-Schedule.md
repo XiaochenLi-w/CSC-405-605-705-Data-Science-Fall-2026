@@ -14,21 +14,21 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Topics 1:** Course Information [Slides](slides/course_introduce.pdf)
 
-**Topics 2:** Introduction of Data Science [Slides](slides/data_science_intro.pdf)
-
 ### Day 2: Monday, August 24
 
 **Preparation:** Students must have a Python environment installed before class, including pip. Installing Jupyter Notebook in advance is also recommended.
 
-**Reading**: [GitHub Introduction](Reading Materials/github_intro.pdf)
+**Topics 1:** Introduction of Data Science [Slides](slides/data_science_intro.pdf)
 
-**Topics 1:** Introduction of Jupyter Notebook
-
-**Topics 2:** Introduction of Git & GitHub
+**Topics 2:** Introduction of Jupyter Notebook
 
 ### Day 3: Wednesday, August 26
 
-**Topics:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control
+**Reading**: [GitHub Introduction](Reading Materials/github_intro.pdf)
+
+**Topics 1:** Introduction of Git & GitHub
+
+**Topics 2:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control
 
 ### Day 4: Monday, August 31
 
