@@ -22,7 +22,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Topics 1:** Introduction of Data Science [Slides](slides/data_science_intro.pdf)
 
-**Topics 2:** Introduction of Jupyter Notebook [Slides](slides/Introduction_to_Jupyter_Notebook.pdf)
+**Topics 2:** Introduction of Jupyter Notebook [Slides](slides/Introduction_to_Jupyter_Notebook.pdf) [Demo](Demo/A_brief_tour_of_Jupter_Notebook.ipynb)
 
 ### Day 3: Wednesday, August 26
 
