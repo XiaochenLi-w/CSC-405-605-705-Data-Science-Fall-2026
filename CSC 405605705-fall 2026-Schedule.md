@@ -18,9 +18,11 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Preparation:** Students must have a Python environment installed before class, including pip. Installing Jupyter Notebook in advance is also recommended.
 
+**Reading**: [How to Use Jupyter Notebook: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
 **Topics 1:** Introduction of Data Science [Slides](slides/data_science_intro.pdf)
 
-**Topics 2:** Introduction of Jupyter Notebook
+**Topics 2:** Introduction of Jupyter Notebook [Slides](slides/Introduction_to_Jupyter_Notebook.pdf)
 
 ### Day 3: Wednesday, August 26
 
