@@ -8,7 +8,7 @@ last_modified_date: true
 
 # Data Science Research Project (Graduate Students Only)
 
-Graduate students are required to submit a project report using the **IEEE Conference double-column format**. Please use the [official IEEE template]( **https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn**).
+Graduate students are required to submit a project report using the **IEEE Conference double-column format**. Please use the [official IEEE template](**https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn**).
 
 Students should choose a project topic relevant to the course and conduct a brief literature review by reading **2–4 related research papers**, including **at least one paper published after January 2026**. The report should clearly reference and discuss these papers.
 
