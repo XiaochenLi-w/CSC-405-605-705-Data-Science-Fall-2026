@@ -30,7 +30,9 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Reading**: [GitHub Introduction](Reading Materials/github_intro.pdf)
 
-**Topics:** Introduction of Git & GitHub [Slides](slides/Git_and_GitHub_for_Data_Science_Projects.pdf)
+**Topics 1:** Complete the Jupyter Notebook demo from the previous class.
+
+**Topics 2:** Introduction of Git & GitHub [Slides](slides/Git_and_GitHub_for_Data_Science_Projects.pdf)
 
 ### Day 4: Monday, August 31
 
