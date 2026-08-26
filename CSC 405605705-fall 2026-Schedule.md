@@ -26,15 +26,17 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 3: Wednesday, August 26
 
+**Preparation:** Students should install Git and register a GitHub account before class.
+
 **Reading**: [GitHub Introduction](Reading Materials/github_intro.pdf)
 
-**Topics 1:** Introduction of Git & GitHub
-
-**Topics 2:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control
+**Topics:** Introduction of Git & GitHub [Slides](slides/Git_and_GitHub_for_Data_Science_Projects.pdf)
 
 ### Day 4: Monday, August 31
 
-**Topics:** Re/Introduction to Python: Using Python to read from and write to files (TXT and CSV files) and perform basic operations
+**Topics 1:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control
+
+**Topics 2:** Re/Introduction to Python: Using Python to read from and write to files (TXT and CSV files) and perform basic operations
 
 ### Day 5: Wednesday, September 2
 
