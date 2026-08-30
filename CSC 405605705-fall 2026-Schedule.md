@@ -36,23 +36,23 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 4: Monday, August 31
 
-**Topics 1:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control
-
-**Topics 2:** Re/Introduction to Python: Using Python to read from and write to files (TXT and CSV files) and perform basic operations
+**Topics:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control [Slides](slides/Python_for_Data_Science_Foundations.pdf)
 
 ### Day 5: Wednesday, September 2
 
 **Assignment**: You can start [**Assignment 1**](Assignments/Data Science - Assignment 1.pdf)
 
-**Preparation:** Students must have Pandas library installed before class.
-
-**Topics:** Introduction to Pandas: Series and DataFrame
+**Topics:** Re/Introduction to Python: Using Python to read from and write to files (TXT and CSV files) and perform basic operations [Slides](slides/Python_for_Data_Science_Foundations.pdf) [Dataset for in-class exercise](dataset/fast_food_consumption_health_impact_dataset.csv)
 
 ### *No class on Monday, September 7 –  Labor Day holiday*
 
 ### Day 6: Wednesday, September, 9
 
-**Topics:** Introduction to Pandas: Read from and write to files (CSV and Excel files)
+**Preparation:** Students must have Pandas library installed before class.
+
+**Topics 1:** Introduction to Pandas: Series and DataFrame
+
+**Topics 2:** Introduction to Pandas: Read from and write to files (CSV and Excel files)
 
 ### Day 7: Monday, September 14
 
