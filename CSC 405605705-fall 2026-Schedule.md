@@ -36,7 +36,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 4: Monday, August 31
 
-**Topics:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control [Slides](slides/Python_for_Data_Science_Foundations.pdf)
+**Topics:** Re/Introduction to Python: Basic syntax, keywords, variables, and data types, Numerical operations, conditional statements, loop control [Slides](slides/Python_for_Data_Science_Foundations.pdf) [Demo 1](Demo/python_demo1.ipynb) [Demo 2](Demo/python_demo2.ipynb)
 
 ### Day 5: Wednesday, September 2
 
