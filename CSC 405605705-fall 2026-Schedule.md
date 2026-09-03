@@ -43,6 +43,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 **Assignment**: You can start [**Assignment 1**](Assignments/Data Science - Assignment 1.pdf)
 
 **Topics:** Re/Introduction to Python: Using Python to read from and write to files (TXT and CSV files) and perform basic operations [Slides](slides/Python_for_Data_Science_Foundations.pdf) [Dataset for in-class exercise](dataset/fast_food_consumption_health_impact_dataset.csv)
+[Demo](Demo/python_demo3.ipynb) [In-class Exercise](Demo/file_handling_Inclass_Exercise.ipynb)
 
 ### *No class on Monday, September 7 –  Labor Day holiday*
 
