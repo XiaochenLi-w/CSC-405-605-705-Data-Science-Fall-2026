@@ -51,13 +51,11 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Preparation:** Students must have Pandas library installed before class.
 
-**Topics 1:** Introduction to Pandas: Series and DataFrame
-
-**Topics 2:** Introduction to Pandas: Read from and write to files (CSV and Excel files)
+**Topics:** Introduction to Pandas: Series and DataFrame [Slides](slides/Introduction_to_Pandas_1.pdf)
 
 ### Day 7: Monday, September 14
 
-**Topics:** Introduction to Pandas: Data cleaning, including removing missing values, outliers, duplicates, and inconsistent data formats.
+**Topics:** Introduction to Pandas: Read from and write to files (CSV and Excel files)
 
 ### Day 8: Wednesday, September 16
 
@@ -65,7 +63,9 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Preparation:** Students must have NumPy library installed before class.
 
-**Topics:** Introduction to NumPy: Understanding and create ndarray.
+**Topics 1:** Introduction to Pandas: Data cleaning, including removing missing values, outliers, duplicates, and inconsistent data formats.
+
+**Topics 2:** Introduction to NumPy: Understanding and creating ndarray.
 
 ### Day 9: Monday, September 21
 
