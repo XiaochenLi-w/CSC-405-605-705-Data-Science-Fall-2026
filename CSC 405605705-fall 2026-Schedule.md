@@ -51,7 +51,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Preparation:** Students must have Pandas library installed before class.
 
-**Topics:** Introduction to Pandas: Series and DataFrame [Slides](slides/Introduction_to_Pandas_1.pdf)
+**Topics:** Introduction to Pandas: Series and DataFrame [Slides](slides/Introduction_to_Pandas_1.pdf) [Demo](Demo/pandas1.ipynb)
 
 ### Day 7: Monday, September 14
 
