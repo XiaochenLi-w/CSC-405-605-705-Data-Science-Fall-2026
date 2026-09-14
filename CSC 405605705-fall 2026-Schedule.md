@@ -55,21 +55,19 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 7: Monday, September 14
 
-**Topics:** Introduction to Pandas: Read from and write to files (CSV and Excel files)
+**Topics:** Introduction to Pandas: Read from and write to files (CSV and Excel files) [Slides](slides/Pandas_File_Handling_and_Data_Cleaning.pdf) [Dataset for in-class exercise](dataset/in_class_datasets.zip)
 
 ### Day 8: Wednesday, September 16
 
 **Remind**: Assignment 1 **Due**
 
-**Preparation:** Students must have NumPy library installed before class.
-
-**Topics 1:** Introduction to Pandas: Data cleaning, including removing missing values, outliers, duplicates, and inconsistent data formats.
-
-**Topics 2:** Introduction to NumPy: Understanding and creating ndarray.
+**Topics:** Introduction to Pandas: Data cleaning, including removing missing values, outliers, duplicates, and inconsistent data formats. (Slides continue from last class)
 
 ### Day 9: Monday, September 21
 
-**Topics:** Introduction to NumPy: Basic functions such as slicing, indexing, reshape, split, and resize, as well as basic math and arithmetic functions.
+**Preparation:** Students must have NumPy library installed before class.
+
+**Topics:** Introduction to NumPy: Understanding and creating ndarray, Basic functions such as slicing, indexing, reshape, split, and resize, as well as basic math and arithmetic functions.
 
 ### Day 10: Wednesday, September 23
 
