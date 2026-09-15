@@ -55,7 +55,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 7: Monday, September 14
 
-**Topics:** Introduction to Pandas: Read from and write to files (CSV and Excel files) [Slides](slides/Pandas_File_Handling_and_Data_Cleaning.pdf) [Dataset for in-class exercise](dataset/in_class_datasets.zip)
+**Topics:** Introduction to Pandas: Read from and write to files (CSV and Excel files) [Slides](slides/Pandas_File_Handling_and_Data_Cleaning.pdf) [Dataset for in-class exercise](dataset/in_class_datasets.zip) [Demo](Demo/Pandas2.ipynb)
 
 ### Day 8: Wednesday, September 16
 
