@@ -67,7 +67,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Preparation:** Students must have NumPy library installed before class.
 
-**Topics:** Introduction to NumPy: Understanding and creating ndarray, Basic functions such as slicing, indexing, reshape, split, and resize, as well as basic math and arithmetic functions.
+**Topics:** Introduction to NumPy: Understanding and creating ndarray, Basic functions such as slicing, indexing, reshape, split, and resize, as well as basic math and arithmetic functions. [Slides](slides/numpy-data-science-introduction.pdf)
 
 ### Day 10: Wednesday, September 23
 
