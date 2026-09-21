@@ -61,7 +61,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Remind**: Assignment 1 **Due**
 
-**Topics:** Introduction to Pandas: Data cleaning, including removing missing values, outliers, duplicates, and inconsistent data formats. (Slides continue from last class)
+**Topics:** Introduction to Pandas: Data cleaning, including removing missing values, outliers, duplicates, and inconsistent data formats. (Slides continue from last class) [Demo](Demo/Pandas3.ipynb)
+
 
 ### Day 9: Monday, September 21
 
