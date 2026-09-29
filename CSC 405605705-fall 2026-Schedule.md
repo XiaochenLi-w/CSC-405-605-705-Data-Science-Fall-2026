@@ -84,7 +84,7 @@ Midterm Grades **Due on Sep 25**
 
 ### Day 12: Wednesday, September 30
 
-**Topics:** Introduction to Statistics in Data Science: Probability foundation
+**Topics:** Introduction to Statistics in Data Science: Probability foundation [Slides](slides/Probability_for_Data_Science.pdf)
 
 ### Day 13: Monday, October 5
 
