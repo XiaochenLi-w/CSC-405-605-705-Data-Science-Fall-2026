@@ -78,6 +78,8 @@ Midterm Grades **Due on Sep 25**
 
 [Review Checklist for Quiz 1](slides/Quiz_1_Review_Guide.pdf)
 
+[Answers for Quiz1](slides/Answers_for_Quiz 1.pdf)
+
 ### Day 11: Monday, September 28
 
 **Topics:** Introduction to Statistics in Data Science: Basic Terminology, different types of Statistical Methods, Statistical Measures for Descriptive Statistics. [Slides](slides/Statistics_for_Data_Science_1.pdf)
