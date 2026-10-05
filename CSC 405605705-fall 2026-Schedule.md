@@ -90,7 +90,7 @@ Midterm Grades **Due on Sep 25**
 
 ### Day 13: Monday, October 5
 
-**Topics:** Introduction to Statistics in Data Science: Distributions for continuous variables and discrete variables.
+**Topics:** Introduction to Statistics in Data Science: Distributions for continuous variables and discrete variables. [Slides](slides/Probability_Distributions_Data_Science.pdf)
 
 ### Day 14: Wednesday, October 7
 
