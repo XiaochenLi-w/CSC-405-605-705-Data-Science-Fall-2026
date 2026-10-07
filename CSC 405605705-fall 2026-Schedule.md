@@ -96,7 +96,7 @@ Midterm Grades **Due on Sep 25**
 
 **Assignment**: You can start [**Assignment 2**](Assignments/Data Science - Assignment 2.pdf)
 
-**Topics:** Introduction to Statistics in Data Science: Central Limit Theorem, Probability Density Estimation.
+**Topics:** Introduction to Statistics in Data Science: Central Limit Theorem, Probability Density Estimation. [Slides](slides/Continuous_Distributions_CLT_Density_Estimation.pdf)  [Z Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/z-table.PDF)
 
 ### *No class on October 9 – October 13 (Fall break)*
 
