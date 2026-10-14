@@ -102,7 +102,7 @@ Midterm Grades **Due on Sep 25**
 
 ### Day 15: Wednesday, October 14
 
-**Topics:** Introduction to Statistics in Data Science: Correlation Measures.
+**Topics:** Introduction to Statistics in Data Science: Correlation Measures. [Slides](slides/Correlation_Data_Science.pdf)
 
 ### Day 17: Monday, October 19
 
