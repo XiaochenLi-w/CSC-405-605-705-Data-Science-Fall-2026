@@ -106,7 +106,7 @@ Midterm Grades **Due on Sep 25**
 
 ### Day 17: Monday, October 19
 
-**Topics:** Introduction to Statistics in Data Science: Hypothesis Testing.
+**Topics:** Introduction to Statistics in Data Science: Hypothesis Testing. [Slides](slides/Introduction_to_Hypothesis_Testing.pdf) [Statistial Tables](slides/StatistialTables.pdf) 
 
 ### Day 18: Wednesday,October 21
 
