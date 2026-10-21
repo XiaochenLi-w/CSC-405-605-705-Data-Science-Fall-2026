@@ -112,11 +112,11 @@ Midterm Grades **Due on Sep 25**
 
 **Remind**: Assignment 2 **Due**
 
-**Topics:** Introduction to Visualization: Different Types of Basic Charts. 
+**Topics:** Introduction to Visualization: Different Types of Basic Charts. [Slides](slides/visualization_basic_charts.pdf)
 
 ### Day 19: Monday, October 26
 
-**Quiz 2**
+**Quiz 2** [Review Checklist for Quiz 2](slides/Quiz_2_Review_Guide.pdf)
 
 ### Day 20: Wednesday, October 28
 
