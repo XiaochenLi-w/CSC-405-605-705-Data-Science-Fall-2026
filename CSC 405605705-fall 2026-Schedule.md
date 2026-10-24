@@ -128,7 +128,7 @@ Midterm Grades **Due on Sep 25**
 
 **Preparation:** Students must have Matplotlib and Seaborn libraries installed before class.
 
-**Topics:** Introduction to Visualization: code implementation and in-class exercises. [Slides](slides/visualization_implementation.pdf)
+**Topics:** Introduction to Visualization: code implementation and in-class exercises. [Slides](slides/visualization_implementation.pdf) [Demo](Demo/Code_Implementation.ipynb)
 
 ### Day 22: Wednesday, November 4
 
