@@ -130,6 +130,12 @@ Midterm Grades **Due on Sep 25**
 
 **Topics:** Introduction to Visualization: code implementation and in-class exercises. [Slides](slides/visualization_implementation.pdf) [Demo](Demo/Code_Implementation.ipynb)
 
+### Please Note
+
+Students may be interested in attending the Google Software Engineers talk on November 4 from 12:30 to 2:00 PM.
+
+To accommodate this, we will move through the material at a slightly faster pace and cover the content originally scheduled for October 28, November 2, and November 4 over the first two class sessions, on October 28 and November 2. As a result, **the November 4 class will be canceled**.
+
 ### Day 22: Wednesday, November 4
 
 **Preparation:** Students must have streamlit library installed before class.
