@@ -122,7 +122,7 @@ Midterm Grades **Due on Sep 25**
 
 **Remind**: Project Proposal Submission **Due on Oct 30**
 
-**Topics:** Introduction to Visualization: Advanced Types of Charts. 
+**Topics:** Introduction to Visualization: Advanced Types of Charts. [Slides](slides/visualization_distribution.pdf)
 
 ### Day 21: Monday, November 2
 
