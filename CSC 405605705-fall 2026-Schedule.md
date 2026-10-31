@@ -136,13 +136,13 @@ Students may be interested in attending the Google Software Engineers talk on No
 
 To accommodate this, we will move through the material at a slightly faster pace and cover the content originally scheduled for October 28, November 2, and November 4 over the first two class sessions, on October 28 and November 2. As a result, **the November 4 class will be canceled**.
 
-### Day 22: Wednesday, November 4
+### Day 22: Wednesday, November 4 (Canceled. Materials are moved to November 2)
 
 **Preparation:** Students must have streamlit library installed before class.
 
 **Reading:** https://docs.streamlit.io/get-started/installation
 
-**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to Streamlit.
+**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to Streamlit. [Slides](slides/Basic_Data_Science_with_LLM_Streamlit.pdf)
 
 ### Day 23: Monday, November 9
 
