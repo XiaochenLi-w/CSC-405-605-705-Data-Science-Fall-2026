@@ -118,7 +118,7 @@ Midterm Grades **Due on Sep 25**
 
 **Quiz 2** [Review Checklist for Quiz 2](slides/Quiz_2_Review_Guide.pdf)
 
-[Answers for Quiz2](slides/Answers_for_Quiz 2.pdf)
+[Answers for Quiz2](slides/Answers_for_Quiz_2.pdf)
 
 ### Day 20: Wednesday, October 28
 
