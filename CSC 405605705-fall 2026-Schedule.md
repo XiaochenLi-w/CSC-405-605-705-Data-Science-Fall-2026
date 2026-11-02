@@ -78,7 +78,7 @@ Midterm Grades **Due on Sep 25**
 
 [Review Checklist for Quiz 1](slides/Quiz_1_Review_Guide.pdf)
 
-[Answers for Quiz1](slides/Answers_for_Quiz 1.pdf)
+[Answers for Quiz1](slides/Answers_for_Quiz_1.pdf)
 
 ### Day 11: Monday, September 28
 
