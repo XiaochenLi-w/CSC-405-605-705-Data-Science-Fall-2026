@@ -152,7 +152,7 @@ To accommodate this, we will move through the material at a slightly faster pace
 
 **Reading:** https://docs.langchain.com/oss/python/langchain/install
 
-**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to LangChain. [Slides](slides/Basic_Data_Science_with_LLM_Langchain.pdf)
+**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to LangChain. [Slides](slides/Basic_Data_Science_with_LLM_Langchain.pdf) [Dataset for class]([dataset/fast_food_consumption_health_impact_dataset.csv](https://www.kaggle.com/datasets/chrisiliop/accidents?resource=download))
 
 ### Day 24: Wednesday, November 11
 
