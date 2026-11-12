@@ -144,7 +144,7 @@ To accommodate this, we will move through the material at a slightly faster pace
 
 **Reading:** https://docs.streamlit.io/get-started/installation
 
-**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to Streamlit. [Slides](slides/Basic_Data_Science_with_LLM_Streamlit.pdf) [Demo](Demo/demo_streamlit.py)
+**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to Streamlit. [Slides](slides/Basic_Data_Science_with_LLM_Streamlit.pdf) [Dataset for class](https://www.kaggle.com/datasets/chrisiliop/accidents?resource=download) [Demo](Demo/demo_streamlit.py)
 
 ### Day 23: Monday, November 9
 
@@ -152,11 +152,11 @@ To accommodate this, we will move through the material at a slightly faster pace
 
 **Reading:** https://docs.langchain.com/oss/python/langchain/install
 
-**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to LangChain. [Slides](slides/Basic_Data_Science_with_LLM_Langchain.pdf) [Dataset for class](https://www.kaggle.com/datasets/chrisiliop/accidents?resource=download) 
+**Topics**:  Introduction to AI-assistant Data Analysis: Introduction to LangChain. [Slides](slides/Basic_Data_Science_with_LLM_Langchain.pdf)  [Demo](Demo/demo_langchain.py)
 
 ### Day 24: Wednesday, November 11
 
-**Topics**:  Introduction to AI-assistant Data Analysis: Build project with LLMs.
+**Topics**:  Introduction to AI-assistant Data Analysis: Build project with LLMs. [Demo](Demo/demo_report_example.py)
 
 ### Day 25: Monday, November 16
 
