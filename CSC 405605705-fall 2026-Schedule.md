@@ -160,7 +160,7 @@ To accommodate this, we will move through the material at a slightly faster pace
 
 ### Day 25: Monday, November 16
 
-**Topics**: Introduction to Data Modeling.
+**Topics**: Introduction to Data Modeling. [Slides](slides/ML.pdf)
 
 ### Day 26: Wednesday, November 18
 
